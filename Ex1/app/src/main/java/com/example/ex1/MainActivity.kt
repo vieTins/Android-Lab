@@ -7,6 +7,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 class MainActivity : AppCompatActivity() {
+//  kiem tra xem co phai la null hay khong
     public var myButton: Button? = null
     public var myUser: EditText? = null
     public var myPass: EditText? = null
