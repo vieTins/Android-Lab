@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gradient_end">#F06A47</color>
+    <color name="gradient_start">#A4269E</color>
+    <color name="transparent_white">#80FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">UI_Login</string>
+    <style name="Base.Theme.UI_Login" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.UI_Login" parent="Base.Theme.UI_Login"/>
+</resources>

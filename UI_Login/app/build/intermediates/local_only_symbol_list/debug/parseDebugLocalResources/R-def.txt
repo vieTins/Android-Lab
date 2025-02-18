@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gradient_end
+color gradient_start
+color transparent_white
+color white
+drawable background
+drawable facebook_icon
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLogin
+id btnLoginFacebook
+id etPassword
+id etUsername
+id main
+id tvForgotPassword
+id tvLogo
+id tvOr
+id tvSignUp
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.UI_Login
+style Theme.UI_Login
+xml backup_rules
+xml data_extraction_rules
